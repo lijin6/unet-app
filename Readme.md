@@ -1,5 +1,3 @@
----
-
 # UNet-App: 乳腺癌医学图像分割工具
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)

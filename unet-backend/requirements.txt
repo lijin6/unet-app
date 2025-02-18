@@ -1,0 +1,8 @@
+Flask==2.1.2
+torch==1.10.0
+opencv-python==4.5.5.64
+numpy==1.21.2
+Werkzeug==2.0.3
+pyyaml==5.4.1
+albumentations==1.0.3
+flask-cors==3.0.10

@@ -76,7 +76,7 @@
 
 1. 进入前端目录：
    ```bash
-   cd frontend
+   cd unet-front
    ```
 
 2. 启动开发服务器：
@@ -109,11 +109,11 @@
 
 ```
 unet-app/
-├── backend/               # 后端代码
+├── unet-backend/               # 后端代码
 │   ├── main.py             # Flask 主程序
 │   ├── models/            # 存放模型文件和配置
 │   └── requirements.txt   # Python 依赖项
-├── frontend/              # 前端代码
+├── unet-frontend/              # 前端代码
 │   ├── public/            # 静态资源
 │   ├── src/               # React 源码
 │   │   ├── components/    # 可复用组件
